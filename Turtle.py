@@ -3,7 +3,7 @@ import turtle
 wn = turtle.Screen()    
 wn.bgcolor("lightblue")     # set the window background color
 
-alex = turtle.Turtule()     # give name for the object
+alex = turtle.Turtle()     # give name for the object
 alex.color("Red")           # give color for Alex
 alex.pensize(3)             # set the width of her pen
 alex.shape("turtle")
